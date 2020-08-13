@@ -70,6 +70,10 @@ categories and one or more items in _each_:
     <ul>
       <li>Ham and Cheese</li>
       <li>Grilled Cheese</li>
+        <ul>
+          <li>Ham and Cheese</li>
+          <li>Grilled Cheese</li>
+        </ul>
     </ul>
   </li>
   <li>Snacks
